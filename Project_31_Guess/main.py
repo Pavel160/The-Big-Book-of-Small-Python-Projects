@@ -1,0 +1,4 @@
+from guess.guess import main
+
+if __name__ == '__main__':
+   main()
