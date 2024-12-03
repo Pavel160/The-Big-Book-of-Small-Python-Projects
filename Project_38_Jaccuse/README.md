@@ -15,19 +15,18 @@
 
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/Pavel160/jaccuse-game.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project directory:
 
    ```bash
-   cd jaccuse-game
+   cd jaccuse
 
 3. Install any dependencies if necessary (none required for this game).
 
 4. Run the game:
 
    ```bash
-
    python main.py
 
 ## How to Play

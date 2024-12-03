@@ -14,7 +14,7 @@ This project simulates a game or task where you search for a carrot in a randoml
 
 1. Clone the repository:
     ```bash
-   git clone https://github.com/Pavel160/carrot-in-box.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project directory:
    ```bash

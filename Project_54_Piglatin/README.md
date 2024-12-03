@@ -1,5 +1,6 @@
 # Pig Latin Translator
-Pig Latin, by Al Sweigart (al@inventwithpython.com)
+
+**Author**: Al Sweigart (al@inventwithpython.com)
 
 This Python program translates English messages into Pig Latin, a playful language transformation where words are modified by moving the first consonant or consonant cluster to the end of the word and adding "ay" (or "yay" if the word starts with a vowel).
 

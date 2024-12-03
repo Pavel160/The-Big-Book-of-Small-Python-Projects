@@ -17,11 +17,11 @@ Customizable settings: The tunnel width and animation speed can be easily adjust
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/deep-cave.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project folder:
    ```bash
-   cd deep-cave
+   cd deepcave
 
 3. Install all dependencies:
    ```bash

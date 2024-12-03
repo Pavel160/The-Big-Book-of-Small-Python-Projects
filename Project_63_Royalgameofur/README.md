@@ -42,8 +42,9 @@ The Royal Game of Ur is one of the oldest known board games in history. Originat
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Pavel160/royal-game-of-ur.git
-cd royal-game-of-ur
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+cd royalgameofur
 ```
 2. Install dependencies:
 

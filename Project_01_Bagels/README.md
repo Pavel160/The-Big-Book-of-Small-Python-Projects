@@ -14,14 +14,13 @@
 4. The player continues guessing until the correct number is found.
 
 ## Technology Stack
-- **Language:** Python 3.12
+- **Language:** Python 3.x
 - **Development Environment:** PyCharm or VSCode (optional)
 
 ## Installation and Running the Game
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/bagels.git
-
+   git clone  https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 2. Navigate to the project directory:
    ```bash
    cd bagels

@@ -14,8 +14,7 @@ Welcome to **Cho-Han**, a Python implementation of the traditional Japanese dice
 
 1. **Clone the repository** to your local machine:
    ```bash
-   git clone https://github.com/Pavel160/cho-han.git
-
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 2. Navigate into the project folder:
    ```bash
    cd cho-han

@@ -20,8 +20,9 @@ Python 3.7 or higher.
 1. Clone the repository or download the project files:
 ```bash
 
-git clone https://github.com/Pavel160/water-jug-puzzle.git
-cd water-jug-puzzle
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+cd waterbucket
 ```
 2. (Optional) Activate a virtual environment:
 ```bash

@@ -23,8 +23,9 @@ Three-Card Monte is a classic street game where the player must guess the locati
 1. Clone the repository or download the project files:
 ```bash
 
-git clone https://github.com/Pavel160/three-card-monte.git
-cd three-card-monte
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+cd threecardmonte
 ```
 
 2. Ensure a virtual environment is activated (optional):

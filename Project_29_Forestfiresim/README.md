@@ -11,9 +11,9 @@ Make sure Python 3.7 or higher is installed on your system.
 
 2. Clone or Download the Repository
 ```bash
-git clone https://github.com/Pavel160/forest-fire-simulation.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
-cd forest-fire-simulation
+cd forestfiresim
 ```
 
 3. Install required dependencies:

@@ -22,7 +22,7 @@ pip install -r requirements-dev.txt
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Pavel160/maze-runner-3D.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 
 2. Install all the required dependencies:

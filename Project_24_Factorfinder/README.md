@@ -16,7 +16,7 @@ This project is a Python implementation for **factorization** of numbers and pol
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/Pavel160/factorization.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
    ```
 
 ## Install Dependencies

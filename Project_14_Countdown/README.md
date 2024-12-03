@@ -16,7 +16,7 @@ The "Countdown" game is an exciting game where the player must complete a task b
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/countdown-game.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project folder:
 

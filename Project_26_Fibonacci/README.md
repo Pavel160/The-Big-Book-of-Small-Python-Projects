@@ -17,9 +17,8 @@
 ### Clone the Repository
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Pavel160/fibonacci-sequence.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
-
 ### Install Dependencies
 Activate the virtual environment and install the required libraries:
 ```bash

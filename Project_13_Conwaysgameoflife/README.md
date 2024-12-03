@@ -37,7 +37,7 @@ Conway's "Game of Life" is a cellular automaton devised by mathematician John Co
 1. Ensure Python (version 3.7 or higher) is installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/conways-game-of-life.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 3. Navigate to the project directory:
 

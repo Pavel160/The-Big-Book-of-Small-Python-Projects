@@ -19,7 +19,7 @@ To install and set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/birthday-paradox.git
+   git clone  https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project directory:
    ```bash

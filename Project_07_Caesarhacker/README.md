@@ -8,7 +8,7 @@ This project provides an implementation of the Caesar Cipher encryption and decr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pavel160/caesar-cipher-decryption.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.gitit
 
 
 2. Install the required dependencies:

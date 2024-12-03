@@ -13,8 +13,9 @@ This project generates multiplication tables for a given range of numbers. It is
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pavel160/multiplication_table.git
-    cd multiplication_table
+    git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+    cd multiplicationtable
     ```
 
 2. Install dependencies (if required):

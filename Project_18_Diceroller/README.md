@@ -21,12 +21,12 @@ A simple Python program to simulate rolling a specified number of dice. Each rol
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Pavel160/dice-roller.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
    cd dice-roller
 
 2. Navigate to the project folder:
    ```bash
-   cd dice-roller
+   cd diceroller
 
 3. Install required dependencies:
    ```bash

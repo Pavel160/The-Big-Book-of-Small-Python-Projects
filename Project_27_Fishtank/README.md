@@ -10,7 +10,7 @@ The **Aquarium** is a Python-based simulation program that models the environmen
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/Pavel160/aquarium-simulation.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 ### Install Dependencies
 Install the required dependencies using pip:

@@ -33,7 +33,7 @@ You win by filling the board with one color/shape before running out of moves.
 
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/flooder.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 3. Navigate to the project folder:
    ```bash

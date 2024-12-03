@@ -24,11 +24,11 @@ The "Diamonds" project generates beautiful diamond-shaped patterns in the consol
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/diamonds.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project folder:
    ```bash
-   cd diamonds
+   cd rhombuses
 
 3. Run the program:
    ```bash

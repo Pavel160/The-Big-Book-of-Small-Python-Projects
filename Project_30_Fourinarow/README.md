@@ -13,9 +13,9 @@ Make sure you have Python 3.7 or newer installed on your computer.
 Use the following command:
 
 ```bash
-git clone https://github.com/Pavel160/connect-four.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
-cd connect-four
+cd fourinarow
 ```
 
 3. Install required dependencies:

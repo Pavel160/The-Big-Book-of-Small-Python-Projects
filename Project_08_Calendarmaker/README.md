@@ -14,7 +14,7 @@ This project allows you to generate calendars for any given month and year. The 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Pavel160/calendar-generator.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Install the required dependencies:
    ```bash

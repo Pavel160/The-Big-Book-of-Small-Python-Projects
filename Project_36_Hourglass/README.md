@@ -13,7 +13,7 @@ The program creates an hourglass shape made of asterisks (*) or any other charac
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/Pavel160/hourglass.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 
 2. Navigate to the project directory:

@@ -26,11 +26,11 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/arithmetic-dice.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project folder:
    ```bash
-   cd arithmetic-dice
+   cd dicemath
 
 3. Install required dependencies:
    ```bash

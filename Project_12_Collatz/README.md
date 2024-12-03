@@ -34,7 +34,7 @@ The goal is to help players understand how the conjecture works and explore sequ
 1. Ensure Python (version 3.7 or higher) is installed.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/collatz-hypothesis-game.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 3. Navigate to the project directory:
 

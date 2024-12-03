@@ -28,8 +28,7 @@ Key functions include:
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/blackjack-game.git
-   cd blackjack-game
+   git clone  https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Install the required dependencies:
    ```bash

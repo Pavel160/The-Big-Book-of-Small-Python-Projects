@@ -21,7 +21,7 @@ The "DVD Bouncing Logo" project recreates the familiar DVD logo bouncing off the
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/dvd-bouncing-logo.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
    cd dvd-bouncing-logo
 
 

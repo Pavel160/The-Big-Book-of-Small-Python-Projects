@@ -13,9 +13,9 @@ Ensure you have Python 3.7 or newer installed on your machine.
 Use the following command:
 
 ```bash
-git clone https://github.com/Pavel160/guess-the-number.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
-cd guess-the-number
+cd guess
 ```
 3. Run the Game
 Start the game by running:

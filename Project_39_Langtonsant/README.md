@@ -23,13 +23,13 @@ To get started with Langton's Ant, follow the steps below:
 
    ```bash
 
-   git clone https://github.com/Pavel160/langtons-ant.git
-   cd langtons-ant
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+   cd langtonsant
    ```
 2. Install dependencies:
 
    ```bash
-
    pip install -r requirements-dev.txt
    ```
 

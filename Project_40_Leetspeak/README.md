@@ -21,7 +21,7 @@ This Python script translates English messages into leetspeak (1337speak), a for
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/leetspeak-translator.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Install required dependencies:
    ```bash

@@ -24,11 +24,11 @@ A Python program that displays a simple digital clock in real-time. The clock up
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Pavel160/digital-clock.git
-  
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
 2. Navigate to the project folder:
    ```bash
-   cd digital-clock
+   cd digital_clock
 
 
 3. Install required dependencies:

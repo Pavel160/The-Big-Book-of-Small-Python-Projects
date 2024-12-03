@@ -12,13 +12,13 @@ In this game, players control robots that can move around the game field and col
 
 ```bash
 
-git clone https://github.com/Pavel160/hungry-robots.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 2. Navigate to the project directory:
 
 ```bash
 
-cd hungry-robots
+cd hungryrobots
 ```
 3. Install the dependencies:
 

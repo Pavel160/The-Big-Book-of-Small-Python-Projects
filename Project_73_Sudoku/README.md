@@ -17,9 +17,9 @@ The game provides pre-made puzzles that are randomly selected.
 1. Ensure that Python version 3.8 or higher is installed.
 2. Clone the repository or download the project code:
    ```bash
-   git clone https://github.com/Pavel160/sudoku-game.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
-   cd sudoku-game
+   cd sudoku
 
 3. (Optional) Set up a virtual environment:
 

@@ -6,7 +6,7 @@ This project implements a class for encrypting and decrypting text using the Cae
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Pavel160/caesar-cipher.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Install the required dependencies:
    ```bash

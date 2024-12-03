@@ -18,8 +18,9 @@ This project prints the full lyrics to the song *"Ninety-Nine Bottles of Milk on
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pavel160/ninety_nine_bottles_silly.git
-    cd ninety_nine_bottles_silly
+    git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+    cd ninetyninebottles2
     ```
 
 2. Install dependencies (if required):

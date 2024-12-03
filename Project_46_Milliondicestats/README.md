@@ -23,13 +23,13 @@ pip install -r requirements-dev.txt
 
 ```bash
 
-git clone https://github.com/Pavel160/dice-rolling-simulation.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 2. Navigate into the project directory:
 
 ```bash
 
-cd dice-rolling-simulation
+cd milliondicestats
 ```
 
 3. Run the simulation:

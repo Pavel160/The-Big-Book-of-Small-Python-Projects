@@ -17,8 +17,9 @@ The program starts with 99 bottles of milk and counts down as the lyrics progres
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pavel160/ninety_nine_bottles_of_milk.git
-    cd ninety_nine_bottles_of_milk
+    git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+    cd ninetyninebottles
     ```
 
 2. Install dependencies (if required):

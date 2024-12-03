@@ -17,8 +17,9 @@ This Python project demonstrates counting in various numeral systems, including 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pavel160/counting_in_number_systems.git
-    cd counting_in_number_systems
+    git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+    cd numeralsystems
     ```
 
 2. Install dependencies (if required):

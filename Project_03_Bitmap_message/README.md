@@ -20,7 +20,7 @@ This project encodes a text message into a visual representation using a bitmap 
 ## Usage
 1. Clone the repository:
 ```bash
-git clone https://github.com/Pavel160/message-as-bitmap.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 2. Run the script:
 ```bash

@@ -16,8 +16,9 @@ This program allows you to generate, display, or export this pattern for creativ
 ## Installation
 1. Clone this repository:
 ```bash
-git clone https://github.com/Pavel160/shining-carpet.git
-cd shining-carpet
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+cd shiningcarpet
 ```
 2. Install the required Python libraries:
 ```bash

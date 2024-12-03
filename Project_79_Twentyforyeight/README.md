@@ -21,8 +21,9 @@ Python 3.7 or higher.
 1. Clone the repository or download the project files:
 ```bash
 
-git clone https://github.com/Pavel160/2048.git
-cd 2048
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+cd twentyforyeight
 ```
 2. (Optional) Activate a virtual environment:
 ```bash

@@ -33,11 +33,11 @@ The Mancala Game is a two-player strategy board game that is simple to learn yet
 ## How to Run
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/Pavel160/mancala-game.git
+   git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 
 2. Navigate to the project directory:
    ```bash
-   cd mancala-game
+   cd mancala
 
 3. Run the game:
    ```bash

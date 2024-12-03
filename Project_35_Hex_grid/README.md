@@ -8,12 +8,11 @@ The program creates a grid of hexagons using characters in the command line. By 
 1. Clone or download the repository:
 
 ```bash
-git clone https://github.com/Pavel160/hexgrid.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 2. Navigate to the project directory:
 
 ```bash
-
 cd hexgrid
 ```
 3. Make sure you have Python 3.x installed.

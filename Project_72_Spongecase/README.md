@@ -19,13 +19,13 @@ To use Gubkorregistr, you need to have Python 3.x installed. Follow these steps 
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/Pavel160/gubkorregistr.git
+git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
 ```
 2. Navigate to the project directory:
 
 ```bash
 
-cd gubkorregistr
+cd spongecace
 ```
 3. Install any dependencies (if any are required in the future): For now, the project does not require any external dependencies.
 

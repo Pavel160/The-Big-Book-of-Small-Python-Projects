@@ -23,8 +23,9 @@ Statistically, switching doors increases the chance of winning from 1/3 to 2/3.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/Pavel160/monty_hall_paradox.git
-    cd monty_hall_paradox
+    git clone https://github.com/Pavel160/The-Big-Book-of-Small-Python-Projects.git
+
+    cd montyhall
     ```
 
 2. Install dependencies (if required):
