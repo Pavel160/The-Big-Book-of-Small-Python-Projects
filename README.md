@@ -26,7 +26,7 @@ Before running any commands, please follow these preliminary steps:
 2. (Optional) Create a virtual environment to avoid conflicts with other Python projects:
     ```bash
     python3 -m venv myenv
-    source myenv/bin/activate  # On Windows, use `myenv\Scripts\activate`
+    source myenv/bin/activate  # On Windows, use `.myenv\Scripts\activate`
     ```
 3. Install the required dependencies:
     ```bash
